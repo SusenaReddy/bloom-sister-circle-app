@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Shield, Phone, MapPin, Heart, AlertTriangle, Users, MessageCircle } from 'lucide-react';
+import { Shield, Phone, MapPin, Heart, AlertTriangle, Users, MessageCircle, BookOpen } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Alert, AlertDescription } from '@/components/ui/alert';
